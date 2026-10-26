@@ -1,0 +1,7 @@
+render mode: gl
+nixpkgs: "26.11pre1100280.3ec636362e18"
+quickshell: Quickshell 0.3.2 (revision tag-v0.3.2, distributed by Nixpkgs)
+sway: sway version 1.12
+niri: niri 26.04 (Nixpkgs)
+commit: a212b74
+fonts: 5 packages
